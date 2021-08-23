@@ -1,0 +1,1 @@
+DbMetal.exe /provider=PostgreSql /code=LibraryDbContext.cs -user:postgres -database:library -server:localhost -password:admin -namespace:Db 
